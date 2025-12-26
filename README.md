@@ -1,4 +1,4 @@
-# 🪄 Contextual AI Bar
+# 🪄 Expo Ripple
 
 A recreation of the animated liquid ripple interaction inspired by [@heyiamdk](https://x.com/heyiamdk/status/2003586331172020381), [@JorgeCastilloPr](https://x.com/JorgeCastilloPr/status/2003112456022003752) and abduzeedo.
 
