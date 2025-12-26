@@ -1,0 +1,31 @@
+// This is an optional configuration file used primarily for debugging purposes when reporting issues.
+// It is safe to delete this file as it does not affect the functionality of your application.
+{
+  "cesVersion": "2.20.1",
+  "projectName": "expo-ripple",
+  "packages": [
+    {
+      "name": "nativewind",
+      "type": "styling"
+    }
+  ],
+  "flags": {
+    "noGit": false,
+    "noInstall": false,
+    "overwrite": false,
+    "importAlias": true,
+    "packageManager": "npm",
+    "eas": false,
+    "publish": false
+  },
+  "packageManager": {
+    "type": "npm",
+    "version": "10.9.4"
+  },
+  "os": {
+    "type": "Darwin",
+    "platform": "darwin",
+    "arch": "arm64",
+    "kernelVersion": "25.1.0"
+  }
+}
