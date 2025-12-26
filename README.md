@@ -8,6 +8,9 @@ Built with **Expo, Skia, Reanimated & Gesture Handler**.
 
 ### 📱 Demo
 
+https://github.com/user-attachments/assets/30eaa32f-94c8-4dc9-b236-5af87909b087
+
+
 ---
 
 ### 🚀 Getting Started
